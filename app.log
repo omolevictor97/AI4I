@@ -1,0 +1,177 @@
+2023-08-22 17:45:53,034  INFO  [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2023-08-22 17:45:53,034  INFO  [33mPress CTRL+C to quit[0m
+2023-08-22 17:45:53,039  INFO   * Restarting with stat
+2023-08-22 17:45:53,558  WARNING   * Debugger is active!
+2023-08-22 17:45:53,569  INFO   * Debugger PIN: 430-444-709
+2023-08-22 17:46:04,688  INFO   * Detected change in '/Users/macbookpro/Desktop/AI4I_project/app.py', reloading
+2023-08-22 17:46:04,753  INFO   * Restarting with stat
+2023-08-22 17:46:05,069  WARNING   * Debugger is active!
+2023-08-22 17:46:05,078  INFO   * Debugger PIN: 430-444-709
+2023-08-22 17:46:41,034  INFO  127.0.0.1 - - [22/Aug/2023 17:46:41] "GET / HTTP/1.1" 200 -
+2023-08-22 17:46:41,194  INFO  127.0.0.1 - - [22/Aug/2023 17:46:41] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2023-08-22 17:48:37,535  INFO   * Detected change in '/Users/macbookpro/Desktop/AI4I_project/app.py', reloading
+2023-08-22 17:48:37,599  INFO   * Restarting with stat
+2023-08-22 18:02:27,451  INFO  [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2023-08-22 18:02:27,451  INFO  [33mPress CTRL+C to quit[0m
+2023-08-22 18:02:27,452  INFO   * Restarting with stat
+2023-08-22 18:02:27,975  WARNING   * Debugger is active!
+2023-08-22 18:02:27,983  INFO   * Debugger PIN: 430-444-709
+2023-08-22 18:02:29,429  INFO  You are now on the home page
+2023-08-22 18:02:29,435  INFO  127.0.0.1 - - [22/Aug/2023 18:02:29] "GET / HTTP/1.1" 200 -
+2023-08-22 18:14:44,771  INFO  You are now on the home page
+2023-08-22 18:14:44,774  INFO  127.0.0.1 - - [22/Aug/2023 18:14:44] "GET / HTTP/1.1" 200 -
+2023-08-22 18:15:22,288  INFO  You are now on the home page
+2023-08-22 18:15:22,291  INFO  127.0.0.1 - - [22/Aug/2023 18:15:22] "GET / HTTP/1.1" 200 -
+2023-08-22 18:16:38,452  INFO  You are now on the home page
+2023-08-22 18:16:38,456  INFO  127.0.0.1 - - [22/Aug/2023 18:16:38] "GET / HTTP/1.1" 200 -
+2023-08-22 18:16:56,097  INFO  You are now on the home page
+2023-08-22 18:16:56,098  INFO  127.0.0.1 - - [22/Aug/2023 18:16:56] "GET / HTTP/1.1" 200 -
+2023-08-22 18:16:59,418  INFO  You are now on the home page
+2023-08-22 18:16:59,421  INFO  127.0.0.1 - - [22/Aug/2023 18:16:59] "GET / HTTP/1.1" 200 -
+2023-08-22 18:17:16,336  INFO  You are now on the home page
+2023-08-22 18:17:16,338  INFO  127.0.0.1 - - [22/Aug/2023 18:17:16] "GET / HTTP/1.1" 200 -
+2023-08-22 18:17:21,112  INFO  You are now on the home page
+2023-08-22 18:17:21,114  INFO  127.0.0.1 - - [22/Aug/2023 18:17:21] "GET / HTTP/1.1" 200 -
+2023-08-22 18:17:26,040  INFO  You are now on the home page
+2023-08-22 18:17:26,040  INFO  127.0.0.1 - - [22/Aug/2023 18:17:26] "GET / HTTP/1.1" 200 -
+2023-08-22 18:17:27,657  INFO  You are now on the home page
+2023-08-22 18:17:27,660  INFO  127.0.0.1 - - [22/Aug/2023 18:17:27] "GET / HTTP/1.1" 200 -
+2023-08-22 18:17:32,607  INFO  You are now on the home page
+2023-08-22 18:17:32,610  INFO  127.0.0.1 - - [22/Aug/2023 18:17:32] "GET / HTTP/1.1" 200 -
+2023-08-22 18:17:43,675  INFO  You are now on the home page
+2023-08-22 18:17:43,678  INFO  127.0.0.1 - - [22/Aug/2023 18:17:43] "GET / HTTP/1.1" 200 -
+2023-08-22 18:18:15,653  INFO  You are now on the home page
+2023-08-22 18:18:15,656  INFO  127.0.0.1 - - [22/Aug/2023 18:18:15] "GET / HTTP/1.1" 200 -
+2023-08-22 18:19:18,073  INFO  You are now on the home page
+2023-08-22 18:19:18,075  INFO  127.0.0.1 - - [22/Aug/2023 18:19:18] "GET / HTTP/1.1" 200 -
+2023-08-22 18:19:19,876  INFO  You are now on the home page
+2023-08-22 18:19:19,877  INFO  127.0.0.1 - - [22/Aug/2023 18:19:19] "GET / HTTP/1.1" 200 -
+2023-08-22 18:19:27,772  INFO  You are now on the home page
+2023-08-22 18:19:27,773  INFO  127.0.0.1 - - [22/Aug/2023 18:19:27] "GET / HTTP/1.1" 200 -
+2023-08-22 18:19:29,205  INFO  You are now on the home page
+2023-08-22 18:19:29,208  INFO  127.0.0.1 - - [22/Aug/2023 18:19:29] "GET / HTTP/1.1" 200 -
+2023-08-22 18:19:30,316  INFO  You are now on the home page
+2023-08-22 18:19:30,318  INFO  127.0.0.1 - - [22/Aug/2023 18:19:30] "GET / HTTP/1.1" 200 -
+2023-08-22 18:19:30,628  INFO  You are now on the home page
+2023-08-22 18:19:30,629  INFO  127.0.0.1 - - [22/Aug/2023 18:19:30] "GET / HTTP/1.1" 200 -
+2023-08-22 18:19:31,084  INFO  You are now on the home page
+2023-08-22 18:19:31,085  INFO  127.0.0.1 - - [22/Aug/2023 18:19:31] "GET / HTTP/1.1" 200 -
+2023-08-22 18:20:50,810  INFO  You are now on the home page
+2023-08-22 18:20:50,813  INFO  127.0.0.1 - - [22/Aug/2023 18:20:50] "GET / HTTP/1.1" 200 -
+2023-08-22 18:21:08,199  INFO  You are now on the home page
+2023-08-22 18:21:08,202  INFO  127.0.0.1 - - [22/Aug/2023 18:21:08] "GET / HTTP/1.1" 200 -
+2023-08-22 18:21:09,678  INFO  You are now on the home page
+2023-08-22 18:21:09,681  INFO  127.0.0.1 - - [22/Aug/2023 18:21:09] "GET / HTTP/1.1" 200 -
+2023-08-22 18:21:20,655  INFO  You are now on the home page
+2023-08-22 18:21:20,657  INFO  127.0.0.1 - - [22/Aug/2023 18:21:20] "GET / HTTP/1.1" 200 -
+2023-08-22 18:21:35,300  INFO  You are now on the home page
+2023-08-22 18:21:35,303  INFO  127.0.0.1 - - [22/Aug/2023 18:21:35] "GET / HTTP/1.1" 200 -
+2023-08-22 18:21:43,132  INFO  You are now on the home page
+2023-08-22 18:21:43,134  INFO  127.0.0.1 - - [22/Aug/2023 18:21:43] "GET / HTTP/1.1" 200 -
+2023-08-22 18:22:02,271  INFO  You are now on the home page
+2023-08-22 18:22:02,274  INFO  127.0.0.1 - - [22/Aug/2023 18:22:02] "GET / HTTP/1.1" 200 -
+2023-08-22 18:22:07,977  INFO  You are now on the home page
+2023-08-22 18:22:07,979  INFO  127.0.0.1 - - [22/Aug/2023 18:22:07] "GET / HTTP/1.1" 200 -
+2023-08-22 18:22:22,588  INFO  You are now on the home page
+2023-08-22 18:22:22,589  INFO  127.0.0.1 - - [22/Aug/2023 18:22:22] "GET / HTTP/1.1" 200 -
+2023-08-22 18:22:24,451  INFO  You are now on the home page
+2023-08-22 18:22:24,453  INFO  127.0.0.1 - - [22/Aug/2023 18:22:24] "GET / HTTP/1.1" 200 -
+2023-08-22 18:22:37,309  INFO  You are now on the home page
+2023-08-22 18:22:37,310  INFO  127.0.0.1 - - [22/Aug/2023 18:22:37] "GET / HTTP/1.1" 200 -
+2023-08-22 18:22:38,566  INFO  You are now on the home page
+2023-08-22 18:22:38,568  INFO  127.0.0.1 - - [22/Aug/2023 18:22:38] "GET / HTTP/1.1" 200 -
+2023-08-22 18:23:21,874  INFO  You are now on the home page
+2023-08-22 18:23:21,877  INFO  127.0.0.1 - - [22/Aug/2023 18:23:21] "GET / HTTP/1.1" 200 -
+2023-08-22 18:23:23,169  INFO  You are now on the home page
+2023-08-22 18:23:23,171  INFO  127.0.0.1 - - [22/Aug/2023 18:23:23] "GET / HTTP/1.1" 200 -
+2023-08-22 18:23:45,712  INFO  You are now on the home page
+2023-08-22 18:23:45,714  INFO  127.0.0.1 - - [22/Aug/2023 18:23:45] "GET / HTTP/1.1" 200 -
+2023-08-22 18:23:46,719  INFO  You are now on the home page
+2023-08-22 18:23:46,722  INFO  127.0.0.1 - - [22/Aug/2023 18:23:46] "GET / HTTP/1.1" 200 -
+2023-08-22 18:24:00,210  INFO  You are now on the home page
+2023-08-22 18:24:00,212  INFO  127.0.0.1 - - [22/Aug/2023 18:24:00] "GET / HTTP/1.1" 200 -
+2023-08-22 18:24:02,888  INFO  You are now on the home page
+2023-08-22 18:24:02,892  INFO  127.0.0.1 - - [22/Aug/2023 18:24:02] "GET / HTTP/1.1" 200 -
+2023-08-22 18:24:13,485  INFO  You are now on the home page
+2023-08-22 18:24:13,487  INFO  127.0.0.1 - - [22/Aug/2023 18:24:13] "GET / HTTP/1.1" 200 -
+2023-08-22 18:24:16,870  INFO  You are now on the home page
+2023-08-22 18:24:16,871  INFO  127.0.0.1 - - [22/Aug/2023 18:24:16] "GET / HTTP/1.1" 200 -
+2023-08-22 18:24:23,708  INFO  You are now on the home page
+2023-08-22 18:24:23,709  INFO  127.0.0.1 - - [22/Aug/2023 18:24:23] "GET / HTTP/1.1" 200 -
+2023-08-22 18:24:24,740  INFO  You are now on the home page
+2023-08-22 18:24:24,743  INFO  127.0.0.1 - - [22/Aug/2023 18:24:24] "GET / HTTP/1.1" 200 -
+2023-08-22 18:26:37,185  INFO   * Detected change in '/Users/macbookpro/Desktop/AI4I_project/app.py', reloading
+2023-08-22 18:26:37,258  INFO   * Restarting with stat
+2023-08-22 18:43:16,859  INFO  [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2023-08-22 18:43:16,859  INFO  [33mPress CTRL+C to quit[0m
+2023-08-22 18:43:16,860  INFO   * Restarting with stat
+2023-08-22 18:43:18,425  WARNING   * Debugger is active!
+2023-08-22 18:43:18,435  INFO   * Debugger PIN: 430-444-709
+2023-08-22 18:43:21,797  INFO  You are now on the home page
+2023-08-22 18:43:21,808  INFO  127.0.0.1 - - [22/Aug/2023 18:43:21] "GET / HTTP/1.1" 200 -
+2023-08-22 18:44:19,244  INFO  127.0.0.1 - - [22/Aug/2023 18:44:19] "[31m[1mPOST /predict HTTP/1.1[0m" 405 -
+2023-08-22 18:44:53,780  INFO   * Detected change in '/Users/macbookpro/Desktop/AI4I_project/app.py', reloading
+2023-08-22 18:44:54,065  INFO   * Restarting with stat
+2023-08-22 18:52:47,346  INFO  [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2023-08-22 18:52:47,347  INFO  [33mPress CTRL+C to quit[0m
+2023-08-22 18:52:47,348  INFO   * Restarting with stat
+2023-08-22 18:52:48,776  WARNING   * Debugger is active!
+2023-08-22 18:52:48,783  INFO   * Debugger PIN: 430-444-709
+2023-08-22 18:52:53,032  INFO  127.0.0.1 - - [22/Aug/2023 18:52:53] "[35m[1mPOST /predict HTTP/1.1[0m" 500 -
+2023-08-22 18:52:53,128  INFO  127.0.0.1 - - [22/Aug/2023 18:52:53] "GET /predict?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+2023-08-22 18:52:53,130  INFO  127.0.0.1 - - [22/Aug/2023 18:52:53] "[36mGET /predict?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2023-08-22 18:52:53,244  INFO  127.0.0.1 - - [22/Aug/2023 18:52:53] "[36mGET /predict?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2023-08-22 18:52:53,291  INFO  127.0.0.1 - - [22/Aug/2023 18:52:53] "[36mGET /predict?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2023-08-22 18:55:18,851  INFO   * Detected change in '/Users/macbookpro/Desktop/AI4I_project/app.py', reloading
+2023-08-22 18:55:19,433  INFO   * Restarting with stat
+2023-08-22 18:55:21,551  WARNING   * Debugger is active!
+2023-08-22 18:55:21,562  INFO   * Debugger PIN: 430-444-709
+2023-08-22 18:55:25,582  INFO  127.0.0.1 - - [22/Aug/2023 18:55:25] "[35m[1mPOST /predict HTTP/1.1[0m" 500 -
+2023-08-22 18:55:25,626  INFO  127.0.0.1 - - [22/Aug/2023 18:55:25] "[36mGET /predict?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2023-08-22 18:55:25,637  INFO  127.0.0.1 - - [22/Aug/2023 18:55:25] "[36mGET /predict?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2023-08-22 18:55:25,657  INFO  127.0.0.1 - - [22/Aug/2023 18:55:25] "[36mGET /predict?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2023-08-22 18:55:25,684  INFO  127.0.0.1 - - [22/Aug/2023 18:55:25] "[36mGET /predict?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2023-08-22 18:56:37,015  INFO   * Detected change in '/Users/macbookpro/Desktop/AI4I_project/app.py', reloading
+2023-08-22 18:56:37,333  INFO   * Restarting with stat
+2023-08-22 18:56:39,120  WARNING   * Debugger is active!
+2023-08-22 18:56:39,128  INFO   * Debugger PIN: 430-444-709
+2023-08-22 18:56:43,336  INFO   * Detected change in '/Users/macbookpro/Desktop/AI4I_project/app.py', reloading
+2023-08-22 18:56:43,646  INFO   * Restarting with stat
+2023-08-22 18:56:45,318  WARNING   * Debugger is active!
+2023-08-22 18:56:45,327  INFO   * Debugger PIN: 430-444-709
+2023-08-22 18:56:49,552  INFO   * Detected change in '/Users/macbookpro/Desktop/AI4I_project/app.py', reloading
+2023-08-22 18:56:49,806  INFO   * Restarting with stat
+2023-08-22 18:56:51,294  WARNING   * Debugger is active!
+2023-08-22 18:56:51,303  INFO   * Debugger PIN: 430-444-709
+2023-08-22 18:56:54,486  INFO   * Detected change in '/Users/macbookpro/Desktop/AI4I_project/app.py', reloading
+2023-08-22 18:56:54,744  INFO   * Restarting with stat
+2023-08-22 18:56:56,241  WARNING   * Debugger is active!
+2023-08-22 18:56:56,251  INFO   * Debugger PIN: 430-444-709
+2023-08-22 18:56:59,431  INFO   * Detected change in '/Users/macbookpro/Desktop/AI4I_project/app.py', reloading
+2023-08-22 18:56:59,697  INFO   * Restarting with stat
+2023-08-22 18:57:02,898  WARNING   * Debugger is active!
+2023-08-22 18:57:02,907  INFO   * Debugger PIN: 430-444-709
+2023-08-22 18:57:04,021  INFO   * Detected change in '/Users/macbookpro/Desktop/AI4I_project/app.py', reloading
+2023-08-22 18:57:04,282  INFO   * Restarting with stat
+2023-08-22 18:57:06,003  WARNING   * Debugger is active!
+2023-08-22 18:57:06,011  INFO   * Debugger PIN: 430-444-709
+2023-08-22 18:57:09,176  INFO   * Detected change in '/Users/macbookpro/Desktop/AI4I_project/app.py', reloading
+2023-08-22 18:57:09,448  INFO   * Restarting with stat
+2023-08-22 18:57:11,188  WARNING   * Debugger is active!
+2023-08-22 18:57:11,195  INFO   * Debugger PIN: 430-444-709
+2023-08-22 18:57:13,337  INFO   * Detected change in '/Users/macbookpro/Desktop/AI4I_project/app.py', reloading
+2023-08-22 18:57:13,589  INFO   * Restarting with stat
+2023-08-22 18:57:15,170  WARNING   * Debugger is active!
+2023-08-22 18:57:15,178  INFO   * Debugger PIN: 430-444-709
+2023-08-22 18:57:18,343  INFO   * Detected change in '/Users/macbookpro/Desktop/AI4I_project/app.py', reloading
+2023-08-22 18:57:18,600  INFO   * Restarting with stat
+2023-08-22 18:57:20,101  WARNING   * Debugger is active!
+2023-08-22 18:57:20,109  INFO   * Debugger PIN: 430-444-709
+2023-08-22 18:57:20,160  INFO  127.0.0.1 - - [22/Aug/2023 18:57:20] "POST /predict HTTP/1.1" 200 -
+2023-08-22 18:58:00,164  INFO  You are now on the home page
+2023-08-22 18:58:00,167  INFO  127.0.0.1 - - [22/Aug/2023 18:58:00] "GET / HTTP/1.1" 200 -
+2023-08-22 18:58:51,615  INFO  127.0.0.1 - - [22/Aug/2023 18:58:51] "POST /predict HTTP/1.1" 200 -
