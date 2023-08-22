@@ -6,3 +6,4 @@ seaborn
 sweetviz
 pandas_profiling
 scikit-learn
+gunicorn
